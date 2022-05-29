@@ -1,0 +1,31 @@
+{
+  "name": "arcticinn-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@hookform/resolvers": "^2.8.8",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.3.3",
+    "next": "12.1.5",
+    "react": "18.1.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.30.0",
+    "react-icons": "^4.3.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5"
+  }
+}

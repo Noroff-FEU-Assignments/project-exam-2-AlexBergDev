@@ -1,0 +1,12 @@
+<svg id="logo-dark" xmlns="http://www.w3.org/2000/svg" width="290" height="63" viewBox="0 0 290 63">
+  <g id="Mountains" transform="translate(-180.56 -275.536)">
+    <path id="Path_12" data-name="Path 12" d="M186.56,321.381c.856-1.905,15.216-28.041,15.216-28.041l19.675,39.682" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Path_13" data-name="Path 13" d="M291.51,305l7.763-11.648,15,28.193" transform="translate(-78.896 -0.007)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="Circle" fill="none">
+    <path d="M31.5,0A31.5,31.5,0,1,1,0,31.5,31.5,31.5,0,0,1,31.5,0Z" stroke="none"/>
+    <path d="M 31.5 6 C 17.43925857543945 6 6 17.43925857543945 6 31.5 C 6 45.56074523925781 17.43925857543945 57 31.5 57 C 45.56074523925781 57 57 45.56074523925781 57 31.5 C 57 17.43925857543945 45.56074523925781 6 31.5 6 M 31.5 0 C 48.89697265625 0 63 14.10302734375 63 31.5 C 63 48.89697265625 48.89697265625 63 31.5 63 C 14.10302734375 63 0 48.89697265625 0 31.5 C 0 14.10302734375 14.10302734375 0 31.5 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <text id="Arctic" transform="translate(69 47)" fill="#fff" font-size="40" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="0">ARCTIC</tspan></text>
+  <text id="Inn" transform="translate(224 47)" fill="#fff" font-size="40" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="0">INN</tspan></text>
+</svg>
